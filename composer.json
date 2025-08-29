@@ -8,6 +8,7 @@
             "email": "echo.wilbertaja1245@gmail.com"
         }
     ],
+
     "require": {
         "php" : ">=8.0"
     },

@@ -1,6 +1,6 @@
 <?php
 
-namespace programmerzamannow\Belajar;
+namespace Wilbertanderson\Belajar;
 
 class customer{
 
